@@ -3,7 +3,7 @@
 ---
 
 
->[!infobox|right]
+>[!infobox|right wikipedia]
 > # Menzoberranzan
 > ![Menzoberranzan City View.jpg](/img/user/Menzoberranzan%20City%20View.jpg)
 ># Basic Information
