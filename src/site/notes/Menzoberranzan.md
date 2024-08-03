@@ -3,7 +3,7 @@
 ---
 
 
->[!infobox|right wikipedia]
+>[!infobox]
 > # Menzoberranzan
 > ![Menzoberranzan City View.jpg| relative wtall cover](/img/user/Menzoberranzan%20City%20View.jpg)
 ># Basic Information
