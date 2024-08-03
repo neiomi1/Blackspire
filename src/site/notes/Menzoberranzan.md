@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/menzoberranzan/","tags":["gardenEntry"]}
 ---
 
-> [!infobox|right wikipedia]
+> [!infobox|right]
 > # Menzoberranzan
 > ![Menzoberranzan City View.jpg](/img/user/Menzoberranzan%20City%20View.jpg)
 ># Basic Information
