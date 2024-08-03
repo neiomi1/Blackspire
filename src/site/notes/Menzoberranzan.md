@@ -5,7 +5,7 @@
 
 >[!infobox|right wikipedia]
 > # Menzoberranzan
-> ![Menzoberranzan City View.jpg](/img/user/Menzoberranzan%20City%20View.jpg)
+> ![Menzoberranzan City View.jpg| relative wtall cover](/img/user/Menzoberranzan%20City%20View.jpg)
 ># Basic Information
 > |  |   |
 > | ---- | --- |
