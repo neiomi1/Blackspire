@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/menzoberranzan/"}
+{"dg-publish":true,"permalink":"/menzoberranzan/","tags":["gardenEntry"]}
 ---
 
 > [!infobox|right wikipedia]
