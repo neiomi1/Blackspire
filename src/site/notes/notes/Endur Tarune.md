@@ -10,7 +10,7 @@
 > | ---- | --- |
 > | Race | Human |
 > | Sex | Male |
-> | Occupation | General of [[notes/The Empire\|The Empire]] |
+> | Occupation | General of [[notes/Thravarian Empire\|Thravarian Empire]] |
 > | Patron Deity | - |
 > # Dates
 >  |  |   |

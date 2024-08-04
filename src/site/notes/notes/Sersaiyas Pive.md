@@ -10,7 +10,7 @@
 > | ---- | --- |
 > | Race | Drow |
 > | Sex | Female |
-> | Occupation | Inquisitor in [[notes/The Empire\|The Empire]] |
+> | Occupation | Inquisitor in [[notes/Thravarian Empire\|Thravarian Empire]] |
 > | Civil Status | Engaged to [[notes/Eltanin Luneiros\|Eltanin Luneiros]] |
 > | Patron Deity | Mystra, Oghma |
 > # Dates

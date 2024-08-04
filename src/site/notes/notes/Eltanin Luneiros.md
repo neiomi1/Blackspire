@@ -11,7 +11,7 @@
 > | ---- | --- |
 > | Race | Drow |
 > | Sex | Male |
-> | Occupation | Inquisitor in [[notes/The Empire\|The Empire]], House Captain of [[notes/House Luneiros\|House Luneiros]] |
+> | Occupation | Inquisitor in [[notes/Thravarian Empire\|Thravarian Empire]], House Captain of [[notes/House Luneiros\|House Luneiros]] |
 > | Patron Deity | Mother (Eilistraee) |
 > # Dates
 >  |  |   |

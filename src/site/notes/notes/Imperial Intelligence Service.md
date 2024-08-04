@@ -4,7 +4,7 @@
 
 > [!infobox|right wikipedia]
 > # Imperial Intelligence Service
-> ![Eltanin Luneiros.png](/img/user/images/Eltanin%20Luneiros.png)
+> ![Imperial Intelligence Service Logo.png](/img/user/images/Imperial%20Intelligence%20Service%20Logo.png)
 ># Basic Information
 > |  |   |
 > | ---- | --- |

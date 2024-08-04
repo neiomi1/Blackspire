@@ -8,8 +8,8 @@
 ># Basic Information
 > |  |   |
 > | ---- | --- |
-> | Type | City in the heart of [[notes/The Empire\|The Empire]] |
-> | Population | ? |  
+> | Type | City in the heart of [[notes/Thravarian Empire\|Thravarian Empire]] |
+> | Population | >28.000 |  
 > # Politics
 >  |  |   |
 > | ---- | --- |
@@ -18,7 +18,7 @@
 
 # Notable Inhabitants
 ## [[notes/Endur Tarune\|Endur Tarune]]
-Military Governor and General of [[notes/The Empire\|The Empire]].
+Military Governor and General of [[notes/Thravarian Empire\|Thravarian Empire]].
 
 ## [[notes/Tebryn Duskryn\|Tebryn Duskryn]]
 Major of the [[notes/Imperial Intelligence Service\|Imperial Intelligence Service]]

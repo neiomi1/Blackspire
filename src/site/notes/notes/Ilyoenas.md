@@ -10,7 +10,7 @@
 > | ---- | --- |
 > | Race | Tabaxi |
 > | Sex | Female |
-> | Occupation | Inquisitor in [[notes/The Empire\|The Empire]] |
+> | Occupation | Inquisitor in [[notes/Thravarian Empire\|Thravarian Empire]] |
 > | Patron Deity | - |
 > # Dates
 >  |  |   |
