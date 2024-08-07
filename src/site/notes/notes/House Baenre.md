@@ -4,7 +4,7 @@
 
 > [!infobox|right wikipedia]
 > # House Baenre
-> ![[bold-spider-clan-crest-logo-with-spider-web-tribal-hourg-creative-logo-design-tattoo-outline_655090-2125001.avif]]
+> ![[default drow house logo.avif]]
 ># Basic Information
 >| | |
 >| --- | --- |
