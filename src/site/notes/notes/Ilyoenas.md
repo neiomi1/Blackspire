@@ -27,7 +27,7 @@
 
 # Relationships
 ## [[notes/Lyrene Daluin\|Lyrene Daluin]]
-Eltanins' wife, wed in absence in an arranged Marriage between [[notes/House Luneiros\|House Luneiros]] and [[House Daluin\|House Daluin]] to ally their respective houses. Neither appear too happy with the situation.
+Eltanins' wife, wed in absence in an arranged Marriage between [[notes/House Luneiros\|House Luneiros]] and [[notes/House Daluin\|House Daluin]] to ally their respective houses. Neither appear too happy with the situation.
 ## [[notes/Sersaiyas Pive\|Sersaiyas Pive]]
 His fiancée in the Empire
 

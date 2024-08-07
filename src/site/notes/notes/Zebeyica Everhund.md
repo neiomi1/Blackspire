@@ -17,7 +17,7 @@
 > | Born | - |
 > | Died | - |
 > # Affiliations
-> Dean at [[Sorcere\|Sorcere]]
+> Dean at [[notes/Sorcere\|Sorcere]]
 
 
 # Description 
@@ -40,4 +40,4 @@ A spell to instantly spread a non-moving cloud of gas in a circle about 40ft in 
 Zebeyica is currently researching a way to make cold iron. She has been capturing Fey to harvest their blood for her research, ultimately intending on aiding or launching an invasion into the Fey Wild itself, wanting to take over one of its largest cities, perhaps as a foothold for further incursions.
 
 # Appendix
-- It is a bit odd that she serves [[notes/House T'will\|House T'will]] and not [[House Baenre\|House Baenre]] given her abilities
+- It is a bit odd that she serves [[notes/House T'will\|House T'will]] and not [[notes/House Baenre\|House Baenre]] given her abilities

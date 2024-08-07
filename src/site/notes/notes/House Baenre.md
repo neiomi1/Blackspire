@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/house-t-will/"}
+{"dg-publish":true,"permalink":"/notes/house-baenre/"}
 ---
 
 > [!infobox|right wikipedia]
-> # House T'will
+> # House Baenre
 > ![[bold-spider-clan-crest-logo-with-spider-web-tribal-hourg-creative-logo-design-tattoo-outline_655090-2125001.avif]]
 ># Basic Information
 >| | |
@@ -14,7 +14,7 @@
 > # Relationships
 > | | |
 >| --- | --- |
->| Allies | [[notes/House Baenre\|House Baenre]] |
+>| Allies | [[notes/House T'will\|House T'will]] |
 >| Enemies | |
 
 

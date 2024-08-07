@@ -7,6 +7,7 @@
 ># Demon Invasion
 > |  |   |
 > | ---- | --- |
+> | Alias | Great Demon War |
 > | Date | 1885 - 1900 |
 > | Location | [[notes/Wizoria\|Wizoria]] |  
 > | Result | Wizorian Victory |  

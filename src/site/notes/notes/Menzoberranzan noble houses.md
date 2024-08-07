@@ -7,4 +7,4 @@ There are about 60-70 noble houses in [[notes/Menzoberranzan\|Menzoberranzan]] a
 Other houses include:
 - [[notes/House Luneiros\|House Luneiros]]
 - [[notes/House T'will\|House T'will]]
-- [[House Daluin\|House Daluin]]
+- [[notes/House Daluin\|House Daluin]]

@@ -11,7 +11,8 @@
 > | ---- | --- |
 > | Race | Drow |
 > | Sex | Male |
-> | Occupation | Inquisitor in [[notes/Thravarian Empire\|Thravarian Empire]], House Captain of [[notes/House Luneiros\|House Luneiros]] |
+> | Occupation | Inquisitor in [[notes/Thravarian Empire\|Thravarian Empire]]<br>House Captain of [[notes/House Luneiros\|House Luneiros]] |
+> | Civil Status | Wed to [[notes/Lyrene Daluin\|Lyrene Daluin]] <br>Engaged to [[notes/Sersaiyas Pive\|Sersaiyas Pive]] |
 > | Patron Deity | Mother (Eilistraee) |
 > # Dates
 >  |  |   |
@@ -20,8 +21,6 @@
 > | Died | - |
 > # Affiliations
 > Son of matron [[notes/Lyndis Luneiros\|Lyndis Luneiros]]
-> Married to [[notes/Lyrene Daluin\|Lyrene Daluin]] against his will
-> Engaged with [[notes/Sersaiyas Pive\|Sersaiyas Pive]] in the Empire
 > Member of the [[notes/Orphan Herders\|Orphan Herders]]
 
 # Description
@@ -41,7 +40,7 @@ A pendant Eltanin found on his journies
 
 # Relationships
 ## [[notes/Lyrene Daluin\|Lyrene Daluin]]
-Eltanins' wife, wed in absence in an arranged Marriage between [[notes/House Luneiros\|House Luneiros]] and [[House Daluin\|House Daluin]] to ally their respective houses. Neither appear too happy with the situation.
+Eltanins' wife, wed in absence in an arranged Marriage between [[notes/House Luneiros\|House Luneiros]] and [[notes/House Daluin\|House Daluin]] to ally their respective houses. Neither appear too happy with the situation.
 ## [[notes/Sersaiyas Pive\|Sersaiyas Pive]]
 His fiancée in the Empire
 

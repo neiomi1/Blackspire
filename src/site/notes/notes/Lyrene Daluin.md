@@ -17,7 +17,7 @@
 > | Born | - |
 > | Died | - |
 > # Affiliations
-> Daughter of Matron of [[House Daluin\|House Daluin]]
+> Daughter of Matron of [[notes/House Daluin\|House Daluin]]
 > 
 
 # Description 

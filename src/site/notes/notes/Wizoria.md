@@ -47,5 +47,5 @@ The Thravian people arrive from the south coast and quickly spread over the cont
  >A massive explosion kills the emperor [[notes/Thravarian Empire\|Thravarian Empire]]. 
  >[[notes/Edict Imperium Magicus\|Edict Imperium Magicus]] is revoked by the new emperor.
  
- > [!timeline|t-l t-2] **~104 NA *Resurgence of the [[Blood Root Cult\|Blood Root Cult]]*
+ > [!timeline|t-l t-2] **~104 NA *Resurgence of the [[notes/Blood Root Cult\|Blood Root Cult]]*
  > Beginning of the campaign

@@ -18,11 +18,9 @@
 > | Rulers | [[notes/Quintis Senna\|Quintis Senna]], [[notes/Valeria Senna\|Valeria Senna]] |
 
 # Cities
-
-## [[notes/Blackspire\|Blackspire]]
-
-## [[notes/Neverfell\|Neverfell]]
-Capital of the Empire
+- [[notes/Neverfell\|Neverfell]]
+- [[notes/Blackspire\|Blackspire]]
+- [[notes/Starkeep\|Starkeep]]
 
 # Appendix
 ## Elven bounty

@@ -8,7 +8,7 @@
 ># Basic Information
 > |  |   |
 > | ---- | --- |
-> | Type | City in the heart of [[notes/Thravarian Empire\|Thravarian Empire]] |
+> | Location | Central [[notes/Thravarian Empire\|Thravarian Empire]] |
 > | Population | >28.000 |  
 > # Politics
 >  |  |   |

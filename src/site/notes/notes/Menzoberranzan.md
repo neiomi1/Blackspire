@@ -24,8 +24,8 @@
 ## [[notes/The Academy\|The Academy]]
 The Academy is compromised of three schools:
 - [[notes/Arach-Tinilith\|Arach-Tinilith]] : A school for clerics dedicated to the worship of Lolth
-- [[Sorcere\|Sorcere]] : A school for wizards
-- [[Melee-Magthere\|Melee-Magthere]] : A school for warriors
+- [[notes/Sorcere\|Sorcere]] : A school for wizards
+- [[notes/Melee-Magthere\|Melee-Magthere]] : A school for warriors
 All drow go to the Academy. Education is compulsory
 > [!note]- Personal Opinion
 > I wish we had this back in the Empire. Compulsory eduction is a net benefit to society.
