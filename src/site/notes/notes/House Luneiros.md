@@ -9,7 +9,7 @@
 >| | |
 >| --- | --- |
 >| Leader(s) | [[notes/Lyndis Luneiros\|Lyndis Luneiros]] |
->| Base of Operations | [[Felundor\|Felundor]] |
+>| Base of Operations | [[notes/Felundor\|Felundor]] |
 >| Founded | - |
 > # Relationships
 > | | |
